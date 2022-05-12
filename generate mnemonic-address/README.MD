@@ -1,2 +1,2 @@
 command
-// node scripts/run.js 4
+// node run.js 4
